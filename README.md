@@ -1,2 +1,2 @@
 # TXON_03
-Create a todo list aap
+Create a todo list app
